@@ -2,8 +2,8 @@ import React from 'react';
 
 const Barradenavegacion = () => {
     return (
-        <div>
-            <div>
+        <div >
+            <div className='barra_de_navegacion'>
                 <img src="Sistema_de_gestion_de_tramites\Sistem_of_ducuments\src\assets\pictures\logo.png" />
                 <h1>Agile Procedures</h1>
                 <div>
@@ -18,7 +18,6 @@ const Barradenavegacion = () => {
                 </ul>
                 </div>
             </div>
-            
             <div>
                 <span>Sobre nosotros</span>
             </div>
